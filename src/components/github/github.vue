@@ -9,7 +9,7 @@ export default {
   name: "aGithub",
   methods: {
     openGithub() {
-      window.open("https://github.com/Ayonveig/Vue-NeteaseCloud-WebMusic");
+      window.open("https://github.com/Xuedea/Vue2-NeteaseCloud-WebMusic");
     },
   },
 };
