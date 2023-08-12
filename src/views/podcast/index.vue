@@ -1,8 +1,5 @@
 <template>
-  <div class="">
-    <span>待做</span>
-    <button>就不做</button>
-  </div>
+  <div class="">待做</div>
 </template>
 
 <script>
